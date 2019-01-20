@@ -1,5 +1,6 @@
 /*
 
+
 What is Javascript?
 
 HTML and CSS are markup languages. Markup languages are
