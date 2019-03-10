@@ -534,7 +534,7 @@ equals sign = to the end of the == and != operators.
 */
 
 // Returns: false
-"1" ==== 1
+"1" === 1
 
 // Returns: false
 0 === false
